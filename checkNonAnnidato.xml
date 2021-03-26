@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libreria1> 
+    <libro casaEditrice="Adelphi">
+        <titolo> Spillover </titolo>
+        <autore> David Quannamen </autore>  
+    </libro> 
+    <pagine> 788 </pagine>  <!-- qui ho messo l'elemento pagine all'infuori dell'elemento libro-->
+
+    <libro casaEditrice="Einaudi">
+        <titolo> 1 2 3 4 </titolo> 
+        <autore> Paul Auster </autore> 
+        <pagine> 1028 </pagine> 
+    </libro> 
+ 
+</libreria1>
+<libro casaEditrice="Einaudi">
+        <titolo> Le ricette della signora Toku </titolo>
+        <autore> Durian Sukegawa </autore> 
+        <pagine> 302 </pagine> 
+</libro>
+<!-- qui ho messo l'elemento libro direttamente fuori da libreria1-->

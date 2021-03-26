@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libreria1>  
+    <mensola> Prima parte a destra </mensola> <!-- aggiungere elemento figlio a libreria -->
+    <libro casaEditrice="Adelphi">
+        <titolo> Spillover </titolo>
+        <autore> David Quannamen </autore>  
+        <pagine> 788 </pagine>
+        <costo> 14 </costo> <!-- costo è l'elemento fratello aggiunto-->
+    </libro> 
+
+    <libro casaEditrice="Einaudi">
+        <titolo> 1 2 3 4 </titolo> 
+        <autore> Paul Auster </autore> 
+        <pagine> 1028 </pagine> 
+    </libro> 
+
+    <libro casaEditrice="Einaudi">
+        <titolo> Le ricette della signora Toku </titolo>
+        <autore> Durian Sukegawa </autore> 
+        <pagine> 302 </pagine> 
+    </libro>
+ 
+</libreria1>
+
+
